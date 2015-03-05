@@ -19,3 +19,7 @@ git clone git@github.com:mikemackintosh/dashing-widget-alert.git widgets/alert
   <i class="icon-tasks icon-background"></i>
 </li>
 ```
+
+### Preview
+
+![Alert Widget Preview](https://www.dropbox.com/s/bevsjwhogvgf3rn/Screenshot%202015-03-05%2011.55.21.png?dl=1)
